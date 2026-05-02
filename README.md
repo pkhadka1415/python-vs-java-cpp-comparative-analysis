@@ -1,9 +1,13 @@
-### python-vs-java-cpp-comparative-analysis
+# Python vs Java/C++: Comparative Analysis
+
+## Overview
+This project explores key Python language features and compares them with Java and C++. It demonstrates concepts such as data structures, control flow, typing, and execution models with code examples and critiques.
 
 ## Highlights
-- Demonstrates core Python language features
-- Includes comparisons with Java and C++
-- Explores design trade-offs (readability vs performance)
+- Demonstrates 20+ core Python language features
+- Compares Python with Java and C++
+- Explains trade-offs (readability vs performance vs safety)
+- Includes working code examples for each concept
 
 ## Features Covered
 * Arrays + Lists + Tuples + Dictionaries
@@ -11,6 +15,13 @@
 * If statement + Switch statement + For loop + While loop + Indentation
 * Numeric types + Boolean expressions + Short circuit evaluation + Type binding + Type checking
 * Functions + Interpretation + Exception Handling(my choice)
+
+## Project Structure
+- Group1.py – Data structures (lists, tuples, dictionaries, arrays)
+- Group2.py – Strings, slicing, indexing
+- Group3.py – Control flow (if, loops, indentation)
+- Group4.py – Types, booleans, evaluation
+- Group5.py – Functions, interpretation, exceptions
 
 ## Group 1: Arrays + Lists + Tuples + Dictionaries
 

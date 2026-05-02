@@ -1,7 +1,11 @@
-# python-vs-java-cpp-comparative-analysis
-Comparative analysis of Python language features with Java and C++, including code examples and critiques
+### python-vs-java-cpp-comparative-analysis
 
-This is how I divided them  into groups 
+## Highlights
+- Demonstrates core Python language features
+- Includes comparisons with Java and C++
+- Explores design trade-offs (readability vs performance)
+
+## Features Covered
 * Arrays + Lists + Tuples + Dictionaries
 * Strings + Slices + Index range checking
 * If statement + Switch statement + For loop + While loop + Indentation
